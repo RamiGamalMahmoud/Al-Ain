@@ -1,0 +1,67 @@
+{
+  "Assets": [
+    {
+      "PackageId": "AinAlAtaaFoundation",
+      "Version": "0.1.20",
+      "Type": "Full",
+      "FileName": "AinAlAtaaFoundation-0.1.20-full.nupkg",
+      "SHA1": "14C576ABB27170D660363E69BE4516D1D424EED3",
+      "SHA256": "10E112A998553865BF87EE6A2B1BCA52431640776946C38FE6B3545DC7BE3E64",
+      "Size": 33098709
+    },
+    {
+      "PackageId": "AinAlAtaaFoundation",
+      "Version": "0.1.20",
+      "Type": "Delta",
+      "FileName": "AinAlAtaaFoundation-0.1.20-delta.nupkg",
+      "SHA1": "BA1EDA9B2C18B43D12138C59FA980F52BA73DCC5",
+      "SHA256": "85C264D239947B363010C534045DED65F04922A789E8C9BD30D286D62799C690",
+      "Size": 396718
+    },
+    {
+      "PackageId": "AinAlAtaaFoundation",
+      "Version": "0.1.16",
+      "Type": "Full",
+      "FileName": "AinAlAtaaFoundation-0.1.16-full.nupkg",
+      "SHA1": "83764F9C83198C6ADA36E770B04297E79A65228E",
+      "SHA256": "4AEA48FC6590B12D10D2B80A651AB035EE0849EAF5F8AC87F734D2328375F6FC",
+      "Size": 33051772
+    },
+    {
+      "PackageId": "AinAlAtaaFoundation",
+      "Version": "0.1.16",
+      "Type": "Delta",
+      "FileName": "AinAlAtaaFoundation-0.1.16-delta.nupkg",
+      "SHA1": "723F27C079977EF688572FCE70A4ECB2CF59E10F",
+      "SHA256": "B520D634EEF3BC7247DB0A956996B18B182715A03C5E6EB31E998D35E5317642",
+      "Size": 259680
+    },
+    {
+      "PackageId": "AinAlAtaaFoundation",
+      "Version": "0.1.15",
+      "Type": "Full",
+      "FileName": "AinAlAtaaFoundation-0.1.15-full.nupkg",
+      "SHA1": "0268AD731D4A8D7DE282D1E0BD41EEA9F87AA230",
+      "SHA256": "B120FB5573D69DD3913E0235FC655EC04C28CDB99BD4B45DDCE5869014DA4CAD",
+      "Size": 33046482
+    },
+    {
+      "PackageId": "AinAlAtaaFoundation",
+      "Version": "0.1.15",
+      "Type": "Delta",
+      "FileName": "AinAlAtaaFoundation-0.1.15-delta.nupkg",
+      "SHA1": "B9F8F227803DC9A640F4E3F9AA2A43F4326F85ED",
+      "SHA256": "6995F2D328CEAE4AAEE9FDA384596387719B39FCE9A1FA9024A20FAFFE6BE2A5",
+      "Size": 241197
+    },
+    {
+      "PackageId": "AinAlAtaaFoundation",
+      "Version": "0.1.0",
+      "Type": "Full",
+      "FileName": "AinAlAtaaFoundation-0.1.0-full.nupkg",
+      "SHA1": "42C58CB56A4B1FAAE4720C450F9BFEC557271CB1",
+      "SHA256": "688A7596A2D3074BEF024C216D65978EB785234D19DE8054316CE96BC5DAB8F3",
+      "Size": 33045627
+    }
+  ]
+}
