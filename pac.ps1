@@ -8,3 +8,9 @@ $splash_image = ".\ain-al-ataa.jpg"
 $framework = "net8.0-x64-desktop"
 $pack_title = "Ain Al-Ataa Foundation"
 vpk pack -u $pack_id -v $version -p .\publish -e $main_exe --icon $icon_path --splashImage $splash_image --framework $framework --packTitle $pack_title
+
+git add .
+git commit -m "Create new release ${$version}"
+git push
+git tag $version
+git push origin tag $version
