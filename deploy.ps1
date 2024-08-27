@@ -1,4 +1,4 @@
-.\pac.ps1
+. .\pac.ps1
 
 git add .
 git commit -m "Create new release $version"
