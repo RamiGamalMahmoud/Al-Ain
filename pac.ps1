@@ -1,6 +1,6 @@
 dotnet publish -c Release  ..\AinAlAtaaFoundation\AinAlAtaaFoundation\ -r win-x64 -o .\publish
 
-$version = "1.0.0"
+$version = "1.0.1"
 $pack_id = "AinAlAtaaFoundation"
 $main_exe = "AinAlAtaaFoundation.exe"
 $icon_path = ".\ain-al-ataa-foundation.ico"
