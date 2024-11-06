@@ -2,6 +2,24 @@
   "Assets": [
     {
       "PackageId": "AinAlAtaaFoundation",
+      "Version": "1.4.0",
+      "Type": "Full",
+      "FileName": "AinAlAtaaFoundation-1.4.0-full.nupkg",
+      "SHA1": "739EAA9F5812DC962F86EF981E374C88108D639B",
+      "SHA256": "8549C9F64ED504E2C74F2943A4AB55F875C03E872E94B79D92157AE31A7B6F30",
+      "Size": 22754748
+    },
+    {
+      "PackageId": "AinAlAtaaFoundation",
+      "Version": "1.4.0",
+      "Type": "Delta",
+      "FileName": "AinAlAtaaFoundation-1.4.0-delta.nupkg",
+      "SHA1": "2F0090EF6CD8A7BF8A4E3D1458CFE2647DDBB403",
+      "SHA256": "7846452741A0C8BDAFDBEA1AB795EF376A0B5B2128AC5137B1B901F89DE9760E",
+      "Size": 272460
+    },
+    {
+      "PackageId": "AinAlAtaaFoundation",
       "Version": "1.3.0",
       "Type": "Full",
       "FileName": "AinAlAtaaFoundation-1.3.0-full.nupkg",
